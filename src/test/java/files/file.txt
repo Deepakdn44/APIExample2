@@ -3,8 +3,7 @@ A
 B
 C
 D
-E
-F
+
 
 Numbers
 1

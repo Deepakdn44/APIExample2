@@ -14,6 +14,7 @@ public class AddPlace {
 	private String language;
 	
 	// Mr X Has changed the code in this code
+	// Another change
 	public Location getLocation() {
 		return location;
 	}

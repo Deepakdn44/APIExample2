@@ -17,5 +17,6 @@ public class Mobile {
 	public void setPrice(String price) {
 		this.price = price;
 	}
-
+	
+	// Hi Im happy that git commands are working
 }

@@ -16,6 +16,7 @@ public class AddPlace {
 	// Mr X Has changed the code in this code
 	// Another change
 	public Location getLocation() {
+		System.out.println("X");
 		return location;
 	}
 	public void setLocation(Location location) {

@@ -13,7 +13,7 @@ public class AddPlace {
 	private String website;
 	private String language;
 	
-	
+	// Mr X Has changed the code in this code
 	public Location getLocation() {
 		return location;
 	}
